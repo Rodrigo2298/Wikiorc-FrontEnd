@@ -1,0 +1,13 @@
+img{
+    width: 16px;
+}
+
+.card{
+    background-color: rgb(95, 95, 95);
+    color: seashell;
+    padding: 20px;
+    width: 50%;
+}
+.card h5{
+    color: seashell;
+}

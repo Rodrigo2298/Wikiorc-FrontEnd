@@ -1,0 +1,12 @@
+.tarjeta{
+    border: 1px solid rgb(65, 65, 65);
+    border-radius: 30px;
+    padding: 10px;
+    height:60vmin;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+img{
+    width: 16px;
+}

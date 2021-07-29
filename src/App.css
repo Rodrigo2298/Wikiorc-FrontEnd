@@ -1,0 +1,22 @@
+.Tiendas div{
+    padding: 20px;
+}
+.Tiendas .col{
+    padding: 10px;
+}
+
+.Contenedor{
+    padding: 20px;
+    border:1px black solid;
+    min-height:100vh;
+    background-color: rgb(34, 34, 34);
+}
+
+.App{
+    padding: 20px;
+    background-color: rgb(88, 88, 88)
+}
+    
+.btn-secondary{
+    width: 100%;
+}
